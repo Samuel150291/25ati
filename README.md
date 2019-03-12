@@ -2,7 +2,7 @@
 
 # DEVOPS e Infraestrutura como Código	 - 25ATI
 
-Bem vindo ao material de laboratório elaborado para o curso de **DEVOPS e Infraestrutura como Código	** da turma **25ATI**!
+Bem vindo ao material de laboratório elaborado para o curso de **DEVOPS e Infraestrutura como Código** da turma **25ATI**!
 
 Aqui você vai encontrar todo o conteúdo e passos para a execução dos laboratórios em sala de aula, utilizando os conceitos apresentados pela disciplina.
 
